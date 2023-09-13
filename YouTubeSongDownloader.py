@@ -37,7 +37,7 @@ def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Updates 👬', url='https://t.me/Thealphabotz 
+                    InlineKeyboardButton('Updates 👬', url='https://t.me/Thealphabotz')
                     InlineKeyboardButton('Support 🤗', url='https://t.me/https://t.me/+n5UitRf-oDpmNzM1')
                 ]
             ]
